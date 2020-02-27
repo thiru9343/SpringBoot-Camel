@@ -16,3 +16,4 @@ public class MyBean {
         this.name = name;
     }
 }
+
